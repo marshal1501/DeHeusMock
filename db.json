@@ -1,15 +1,27 @@
 {
-  "users": [
-    { "id": 1, "name": "TESS", "isvip": true, "language": "EN" },
-    { "id": 2, "name": "Ricardo", "isvip": false, "language": "ES" },
-    { "id": 3, "name": "Fred", "isvip": false, "language": "EN" },
-    { "id": 3, "name": "Juan", "isvip": true, "language": "ES" },
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"users": [{
+			"id": 1,
+			"name": "TESS",
+			"isvip": true,
+			"language": "EN"
+		},
+		{
+			"id": 2,
+			"name": "Ricardo",
+			"isvip": false,
+			"language": "ES"
+		},
+		{
+			"id": 3,
+			"name": "Fred",
+			"isvip": false,
+			"language": "EN"
+		},
+		{
+			"id": 3,
+			"name": "Juan",
+			"isvip": true,
+			"language": "ES"
+		}
+	]
 }
