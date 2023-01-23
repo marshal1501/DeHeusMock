@@ -1,27 +1,90 @@
-{
-	"users": [{
-			"id": 1,
-			"name": "TESS",
-			"isvip": true,
-			"language": "EN"
-		},
-		{
-			"id": 2,
-			"name": "Ricardo",
-			"isvip": false,
-			"language": "ES"
-		},
-		{
-			"id": 3,
-			"name": "Fred",
-			"isvip": false,
-			"language": "EN"
-		},
-		{
-			"id": 4,
-			"name": "Juan",
-			"isvip": true,
-			"language": "ES"
-		}
-	]
-}
+[
+    {
+        "id": 1,
+        "name": "Tess",
+        "isvip": true,
+        "language": "EN",
+        "image": {
+            "gender": "female"
+        },
+        "job_role": "Product Sourcing",
+        "company": {
+            "name": "Terra",
+            "order_size": "€451 512",
+            "since": "3 Oct 2018",
+            "phone_number": "+44 077 6968 2923",
+            "address": {
+                "street": "75 St Omers Road",
+                "city": "HIRST",
+                "zip": "NE63 6ZQ",
+                "country": "United Kingdom"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ricardo",
+        "isvip": false,
+        "language": "ES",
+        "image": {
+            "gender": "male"
+        },
+        "job_role": "Horse Trainer",
+        "company": {
+            "name": "Bresler",
+            "order_size": "€21 525",
+            "since": "21 Jan 2021",
+            "phone_number": "+34 672 615 819",
+            "address": {
+                "street": "Carretera Cádiz-Málaga, 43",
+                "city": "Mutriku",
+                "zip": "20830",
+                "country": "Spain"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Fred",
+        "isvip": false,
+        "language": "EN",
+        "image": {
+            "gender": "male"
+        },
+        "job_role": "Adviser",
+        "company": {
+            "name": "Strata",
+            "order_size": "€11 098",
+            "since": "9 Jul 2022",
+            "phone_number": "+44 070 4598 9685",
+            "address": {
+                "street": "31 Lairg Road",
+                "city": "NEWARK-ON-TRENT",
+                "zip": "NG24 0TT",
+                "country": "United Kingdom"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Juan",
+        "isvip": true,
+        "language": "ES",
+        "image": {
+            "gender": "male"
+        },
+        "job_role": "Spokesperson",
+        "company": {
+            "name": "John Plain",
+            "order_size": "€9 168 981",
+            "since": "15 Apr 2012",
+            "phone_number": "+34 676 069 236",
+            "address": {
+                "street": "Calvo Sotelo, 92",
+                "city": "Medina del Campo",
+                "zip": "47400 ",
+                "country": "Spain"
+            }
+        }
+    }
+]
