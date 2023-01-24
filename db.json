@@ -5,6 +5,7 @@
             "name": "Tess",
             "isvip": true,
             "language": "EN",
+            "agent": "",
             "image": {
                 "gender": "female"
             },
@@ -27,6 +28,7 @@
             "name": "Ricardo",
             "isvip": false,
             "language": "ES",
+            "agent": "",
             "image": {
                 "gender": "male"
             },
@@ -49,6 +51,7 @@
             "name": "Fred",
             "isvip": false,
             "language": "EN",
+            "agent": "",
             "image": {
                 "gender": "male"
             },
@@ -71,6 +74,7 @@
             "name": "Juan",
             "isvip": true,
             "language": "ES",
+            "agent": "WK3817c527f6ad207d1902709f1ee53cd2",
             "image": {
                 "gender": "male"
             },
