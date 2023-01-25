@@ -5,7 +5,6 @@
             "name": "Tess",
             "isvip": true,
             "language": "EN",
-            "agent": "",
             "image": {
                 "gender": "female"
             },
@@ -28,11 +27,10 @@
             "name": "Ricardo",
             "isvip": false,
             "language": "ES",
-            "agent": "",
             "image": {
                 "gender": "male"
             },
-            "job_role": "Horse Trainer",
+            "job_role": "Inventory Management",
             "company": {
                 "name": "Bresler",
                 "order_size": "€21 525",
@@ -51,7 +49,6 @@
             "name": "Fred",
             "isvip": false,
             "language": "EN",
-            "agent": "",
             "image": {
                 "gender": "male"
             },
@@ -74,7 +71,6 @@
             "name": "Juan",
             "isvip": true,
             "language": "ES",
-            "agent": "WK3817c527f6ad207d1902709f1ee53cd2",
             "image": {
                 "gender": "male"
             },
@@ -92,5 +88,25 @@
                 }
             }
         }
-    ]
+    ],
+    "copies": {
+        "EN": {
+            "intro_campaign": "It is currently an important time for pig breeding. We would like to remind you that we have recently launched a new crucial supplement for piglets. Would you like more information? Yes/no",
+            "intro_optout": "Thank you for your feedback. If you would like to opt-out from these messages then please answer with \"STOP\"",
+            "intro_info": "The sooner additional piglet feed is provided to the young piglets, the more piglets will start eating it before weaning. This is why it is important to start early with feeding piglet feed. Providing Nurse milk, a milk replacer, at an early stage ensures that piglets learn to eat at a very young age.",
+            "input_question": "Around how many piglet bearing pigs do you this year?",
+            "input_response": "Thank you for your interest. A representative will be in touch with you shortly.",
+            "yes": "Yes",
+            "no": "No"
+        },
+        "ES": {
+            "intro_campaign": "Actualmente es un momento importante para la cría de cerdos. Les recordamos que recientemente hemos lanzado un nuevo suplemento crucial para lechones. Te gustaría más información? Sí/No",
+            "intro_optout": "Gracias por tus comentarios. Si desea optar por no recibir estos mensajes, responda con \"DETENER\"",
+            "intro_info": "Cuanto antes se proporcione alimento adicional para lechones a los lechones jóvenes, más lechones comenzarán a comerlo antes del destete. Por eso es importante comenzar temprano con la alimentación de los lechones. Proporcionar leche Nurse, un sustituto de la leche, en una etapa temprana asegura que los lechones aprendan a comer a una edad muy temprana.",
+            "input_question": "¿Alrededor de cuántos cerdos con lechones tiene este año?",
+            "input._response": "Gracias por su interés. Un representante se pondrá en contacto con usted en breve.",
+            "yes": "Sí",
+            "no": "No"
+        }
+    }
 }
